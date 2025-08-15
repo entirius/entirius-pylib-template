@@ -6,7 +6,9 @@ build-backend = "hatchling.build"
 name = "entirius-pylib-template"
 version = "1.0.0"
 description = "Template for creating Python libraries following Entirius standards"
-authors = [{name = "Piotr Brzozowski", email = "piotr.brzozowski@entirius.com"}]
+authors = [
+    {name = "Zolv", email = "174021039+zolvio@users.noreply.github.com"},
+]
 license = {text = "MPL-2.0"}
 readme = "README.md"
 requires-python = ">=3.11"
