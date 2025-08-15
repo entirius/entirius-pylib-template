@@ -191,13 +191,13 @@ twine upload dist/*
 
 This template follows established Entirius platform standards:
 
-- **[ADR-004](../docs-entirius/docs/adr/adr-004-mozilla-public-license.md)**: Mozilla Public License 2.0
-- **[ADR-007](../docs-entirius/docs/adr/adr-007-uv-python-package-manager.md)**: UV Python Package Manager
-- **[ADR-008](../docs-entirius/docs/adr/adr-008-github-repository-naming-conventions.md)**: GitHub Repository Naming (`entirius-pylib-*`)
-- **[ADR-009](../docs-entirius/docs/adr/adr-009-pyproject-toml-standard.md)**: pyproject.toml Standard
-- **[ADR-010](../docs-entirius/docs/adr/adr-010-ruff-python-linter.md)**: Ruff Python Linter
-- **[ADR-011](../docs-entirius/docs/adr/adr-011-kiss-principle.md)**: KISS Principle
-- **[ADR-013](../docs-entirius/docs/adr/adr-013-hatchling-build-backend.md)**: Hatchling Build Backend
+- **[ADR-004](../docs/entirius-docs/docs/adr/adr-004-mozilla-public-license.md)**: Mozilla Public License 2.0
+- **[ADR-007](../docs/entirius-docs/docs/adr/adr-007-uv-python-package-manager.md)**: UV Python Package Manager
+- **[ADR-008](../docs/entirius-docs/docs/adr/adr-008-github-repository-naming-conventions.md)**: GitHub Repository Naming (`entirius-pylib-*`)
+- **[ADR-009](../docs/entirius-docs/docs/adr/adr-009-pyproject-toml-standard.md)**: pyproject.toml Standard
+- **[ADR-010](../docs/entirius-docs/docs/adr/adr-010-ruff-python-linter.md)**: Ruff Python Linter
+- **[ADR-011](../docs/entirius-docs/docs/adr/adr-011-kiss-principle.md)**: KISS Principle
+- **[ADR-013](../docs/entirius-docs/docs/adr/adr-013-hatchling-build-backend.md)**: Hatchling Build Backend
 
 ## Directory Structure
 
